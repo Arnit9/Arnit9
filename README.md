@@ -1,6 +1,11 @@
 <h2> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h2>
 
-I'm a highly motivated and skilled graduate student in Electrical Engineering (B.Tech) with a passion for pushing the boundaries of technology. My journey in the realm of technology has been driven by a thirst for knowledge and a desire to contribute to meaningful projects that make a difference.
+Versatile and driven M.Tech graduate in Power Systems Engineering with a strong foundation in analog & mixed-signal design, embedded diagnostics, and system modeling.
+I bring hands-on experience in circuit design, CAN-based communication, and control systems, backed by expertise in MATLAB, Cadence Virtuoso, LTSpice, PSIM, and CANalyzer.
+
+Alongside my hardware background, I’ve developed solid skills in machine learning, deep learning, and computer vision, enabling me to bridge the gap between intelligent algorithms and real-world engineering systems.
+
+I am passionate about contributing to cutting-edge semiconductor and AI-integrated technologies, and I’m actively seeking opportunities to grow as a well-rounded engineer in dynamic, impact-driven environments.
 
 ## About Me 🚀
 
