@@ -1,19 +1,19 @@
 <h2> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h2>
 
-Versatile and driven M.Tech graduate in Power Systems Engineering with a strong foundation in analog & mixed-signal design, embedded diagnostics, and system modeling.
-I bring hands-on experience in circuit design, CAN-based communication, and control systems, backed by expertise in MATLAB, Cadence Virtuoso, LTSpice, PSIM, and CANalyzer.
+Versatile and driven **M.Tech graduate in Power Systems Engineering** with a strong foundation in **analog & mixed-signal design**, **embedded diagnostics**, and **system modeling**.  
+I bring hands-on experience in **circuit design**, **CAN-based communication**, and **control systems**, backed by expertise in **MATLAB**, **Cadence Virtuoso**, **LTSpice**, **PSIM**, and **CANalyzer**.
 
-Alongside my hardware background, I’ve developed solid skills in machine learning, deep learning, and computer vision, enabling me to bridge the gap between intelligent algorithms and real-world engineering systems.
+Alongside my hardware background, I’ve developed solid skills in **machine learning**, **deep learning**, and **computer vision**, enabling me to bridge the gap between **intelligent algorithms** and **real-world engineering systems**.
 
-I am passionate about contributing to cutting-edge semiconductor and AI-integrated technologies, and I’m actively seeking opportunities to grow as a well-rounded engineer in dynamic, impact-driven environments.
+I am passionate about contributing to **cutting-edge semiconductor** and **AI-integrated technologies**, and I’m actively seeking opportunities to grow as a **well-rounded engineer** in dynamic, impact-driven environments.
 
 ## About Me 🚀
 
-- 🎓 Completed my B.Tech in Electrical Engineering
-- 🔌 Passionate about exploring the fields of Artificial Intelligence and Machine Learning
-- 🤖 Eager to delve into cutting-edge technologies and innovation
-- 🌟 Committed to fostering a collaborative and supportive work environment
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/arnit-panda-8462a2150/)
+- 🎓 **M.Tech (Power Systems Engineering)**  
+- ⚡ Strong foundation in **analog & mixed-signal circuits**, **control systems**, and **embedded diagnostics**  
+- 🧠 Passion for **AI/ML**, especially in integrating intelligence into real-world hardware  
+- 🤝 Collaborative team player with hands-on experience in both academic & industrial projects  
+- 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/arnit-panda-8462a2150/)
 
 ## Expertise 💡
 ---
